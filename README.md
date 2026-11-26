@@ -1,4 +1,4 @@
-# 搜索基金入门·中国版 · Search Fund Primer: China Edition
+# 搜索基金入门 · Search Fund Primer
 
 一个面向中国语境的中英双语搜索基金（Search Fund / ETA）科普技能，供 AI agent 加载使用。
 
