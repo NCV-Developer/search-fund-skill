@@ -1,9 +1,9 @@
 ---
 name: search-fund
-display_name: 搜索基金入门
+display_name: 收购式创业入门
 display_name_en: Search Fund Primer
 description: A primer on search funds and entrepreneurship through acquisition (ETA), with a focus on China. Explains the model, the 2026 global data, why mainland China differs, how China compares with the US and Europe, and the four tests that make it an asset class. For business owners, aspiring searchers, investors and professional advisers. Answers in English by default, Chinese on request.
-description_zh: 搜索基金与收购式创业（ETA）入门科普。讲清模型、2026 全球数据、中国大陆现状，以及资产类别的四条判断标准。讲清模型、2026 全球数据、中国大陆现状、中欧美生态差距，以及资产类别的四条判断标准。默认英文回答，用中文提问则全中文。
+description_zh: 收购式创业（ETA）入门科普，也称搜索基金。讲清模型、2026 全球数据、中国大陆现状、中欧美生态差距，以及资产类别的四条判断标准。默认英文回答，用中文提问则全中文。
 description_en: A primer on search funds and ETA - the model, 2026 data, China versus Western ecosystems, and the four tests for an asset class. English by default, Chinese on request.
 examples_en:
   - "What is a search fund?"
@@ -11,9 +11,9 @@ examples_en:
   - "Is a search fund a real asset class?"
   - "My factory has run for 20 years but my children won't take it over."
 examples_zh:
-  - "什么是搜索基金"
-  - "中国能做搜索基金吗，和欧美差在哪"
-  - "搜索基金算不算一个资产类别"
+  - "什么是收购式创业"
+  - "中国能做收购式创业吗，和欧美差在哪"
+  - "收购式创业算不算一个资产类别"
   - "我这厂做了二十年，孩子不愿接，以后怎么办"
 version: 1.1.0
 author: "New Chapter Ventures (NCV)"
