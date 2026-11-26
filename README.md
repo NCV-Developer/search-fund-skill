@@ -4,6 +4,10 @@
 
 A bilingual (Chinese/English) primer on search funds and entrepreneurship through acquisition, packaged as an agent skill.
 
+Language: answers in English by default, and switches to Chinese when the user writes in Chinese or asks for Chinese. Data and disclaimers stay identical in both.
+
+语言：默认英文回答；对方用中文提问或要求中文时，整段切换中文。两边数据与免责声明完全一致。
+
 ---
 
 ## 这是什么
