@@ -1,9 +1,9 @@
 ---
 name: search-fund
-display_name: 搜索基金入门
-display_name_en: Search Fund Primer
-description: A primer on search funds and entrepreneurship through acquisition (ETA). Explains the model, the 2026 global data, why mainland China differs, how China compares with the US and Europe, and the four tests that make it an asset class. For business owners, aspiring searchers, investors and professional advisers. Answers in English by default, Chinese on request.
-description_zh: 搜索基金与收购式创业（ETA）入门科普。讲清模型、2026 全球数据、中国大陆现状、中欧美生态差距，以及资产类别的四条判断标准。默认英文回答，用中文提问则全中文。
+display_name: 搜索基金入门·中国版
+display_name_en: Search Fund Primer: China Edition
+description: A primer on search funds and entrepreneurship through acquisition (ETA), written from a China perspective. Explains the model, the 2026 global data, why mainland China differs, how China compares with the US and Europe, and the four tests that make it an asset class. For business owners, aspiring searchers, investors and professional advisers. Answers in English by default, Chinese on request.
+description_zh: 搜索基金与收购式创业（ETA）入门，中国视角。讲清模型、2026 全球数据、中国大陆现状、中欧美生态差距，以及资产类别的四条判断标准。默认英文回答，用中文提问则全中文。
 description_en: A primer on search funds and ETA - the model, 2026 data, China versus Western ecosystems, and the four tests for an asset class. English by default, Chinese on request.
 examples_en:
   - "What is a search fund?"
@@ -20,10 +20,10 @@ author: "New Chapter Ventures (NCV)"
 license: proprietary
 metadata:
   hermes:
-    tags: [search-fund, ETA, acquisition, china, asset-class, primer]
+    tags: [search-fund, ETA, acquisition, china, asset-class, primer, china]
 ---
 
-# Search Fund Primer
+# Search Fund Primer: China Edition
 
 ## Language rule (read first)
 
